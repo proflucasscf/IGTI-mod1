@@ -19,3 +19,5 @@
 - Aula 17: Módulo 1 - Capítulo 11 - Aula 11.3. Trabalhando com a Galeria de fotos no React Native
 - Aula 18: Módulo 1 - Capítulo 11 - Aula 11.4. Trabalhando com a QRCode no React Native
 - Aula 19: Módulo 1 - Capítulo 12 - Aula 12.4. Aplicativos integrados à serviços e APIs
+
+- Aulas Interativas: Segunda Aula Interativa com exemplos de Flutter e React Native
